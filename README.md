@@ -11,7 +11,7 @@
 | 김나형 | FE         | qna/accounts/nav  담당 및 팀장 |
 | 김선교 | Full stack |                                |
 | 이성훈 | BE         |                                |
-| 최민아 | FE         |                                |
+| 최민아 | FE         | photospots/footer/반응형디자인 담당 및 PPT 제작 |
 | 하두연 | BE         |                                |
 
 <details> <summary>팀원 개인깃헙</summary>
